@@ -15,7 +15,7 @@ MyBooks es una aplicación móvil desarrollada en **React Native + Expo** que pe
 
 ## Tecnologías Utilizadas
 
-- **Frontend**: React Native + Expo o Flutter
+- **Frontend**: React Native + Expo
 - **Backend**: Firebase Authentication & Firestore
 - **API**: Udacity Books API
 
@@ -30,7 +30,7 @@ MyBooks es una aplicación móvil desarrollada en **React Native + Expo** que pe
 ### Instalación
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/Joel30/univalle_mi-comida-favorita.git
+   git clone https://github.com/Joel30/univalle_my-books.git
    cd my-books
    ```
 2. Instala las dependencias:
